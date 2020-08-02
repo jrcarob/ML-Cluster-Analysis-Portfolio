@@ -1,3 +1,5 @@
+## Project: Optimal Portfolio Diversification via Clustering
+
 ## Abstract
 Modern portfolio theory(MPT) states that an investor can build a portfolio of diverse stocks to maximize returns for a given level of risk.
 Risk can be reduced using diversification, the idea behid diversification is to split investment between different companies so that if  price of few stocks that one owned decreases in value, the others may not if they are from other industry, thus reducing the loss.
